@@ -1,0 +1,6 @@
+http://testphp.vulnweb.com
+https://cdac.in
+https://drop.com
+https://fb.com
+google.com
+tesla.com
